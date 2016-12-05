@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\Find Digits\Find Digits\bin\Debug\Find Digits.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Find Digits\Find Digits\bin\Debug\Find Digits.exe
+\\mac\home\documents\visual studio 2015\Projects\Find Digits\Find Digits\bin\Debug\Find Digits.pdb
+\\mac\home\documents\visual studio 2015\Projects\Find Digits\Find Digits\obj\Debug\Find Digits.exe
+\\mac\home\documents\visual studio 2015\Projects\Find Digits\Find Digits\obj\Debug\Find Digits.pdb
