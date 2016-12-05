@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\Cut the sticks\Cut the sticks\bin\Debug\Cut the sticks.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Cut the sticks\Cut the sticks\bin\Debug\Cut the sticks.exe
+\\mac\home\documents\visual studio 2015\Projects\Cut the sticks\Cut the sticks\bin\Debug\Cut the sticks.pdb
+\\mac\home\documents\visual studio 2015\Projects\Cut the sticks\Cut the sticks\obj\Debug\Cut the sticks.exe
+\\mac\home\documents\visual studio 2015\Projects\Cut the sticks\Cut the sticks\obj\Debug\Cut the sticks.pdb
