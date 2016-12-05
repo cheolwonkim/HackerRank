@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+\\mac\home\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+\\mac\home\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+\\mac\home\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb
