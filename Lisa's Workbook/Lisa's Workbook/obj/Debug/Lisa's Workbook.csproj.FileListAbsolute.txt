@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\Lisa's Workbook\Lisa's Workbook\bin\Debug\Lisa's Workbook.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Lisa's Workbook\Lisa's Workbook\bin\Debug\Lisa's Workbook.exe
+\\mac\home\documents\visual studio 2015\Projects\Lisa's Workbook\Lisa's Workbook\bin\Debug\Lisa's Workbook.pdb
+\\mac\home\documents\visual studio 2015\Projects\Lisa's Workbook\Lisa's Workbook\obj\Debug\Lisa's Workbook.exe
+\\mac\home\documents\visual studio 2015\Projects\Lisa's Workbook\Lisa's Workbook\obj\Debug\Lisa's Workbook.pdb
